@@ -1,3 +1,4 @@
+Fecha de inicio 02/5/2025
 # VL-QHybrid  
 ## Sistema Operativo Cuántico-Binario  
 
